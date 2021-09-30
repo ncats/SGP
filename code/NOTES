@@ -1,0 +1,4 @@
+NetworkX	3-clause BSD license	[ https://github.com/networkx/networkx/blob/main/LICENSE.txt ]
+pandas	[ https://github.com/pandas-dev/pandas ]	BSD 3-Clause "New" or "Revised" License	[ https://github.com/pandas-dev/pandas/blob/master/LICENSE ]
+sys	Python Software Foundation License (PSFL)	[ https://docs.python.org/3/license.html ]
+json	Python Software Foundation License (PSFL)	[ https://docs.python.org/3/license.html ]

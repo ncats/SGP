@@ -1,0 +1,8 @@
+data/ filter=lfs diff=lfs merge=lfs -text
+data/cytoscape_style filter=lfs diff=lfs merge=lfs -text
+data/DISCLAIMER filter=lfs diff=lfs merge=lfs -text
+data/input filter=lfs diff=lfs merge=lfs -text
+data/LICENSE filter=lfs diff=lfs merge=lfs -text
+data/NOTES filter=lfs diff=lfs merge=lfs -text
+data/output filter=lfs diff=lfs merge=lfs -text
+data/*.* filter=lfs diff=lfs merge=lfs -text

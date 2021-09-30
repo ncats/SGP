@@ -1,0 +1,425 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="uuid" attr.type="string" for="edge" id="d12" />
+  <key attr.name="edge_type" attr.type="string" for="edge" id="d11" />
+  <key attr.name="rinchikey" attr.type="string" for="node" id="d10" />
+  <key attr.name="rsha" attr.type="string" for="node" id="d9" />
+  <key attr.name="rush" attr.type="string" for="node" id="d8" />
+  <key attr.name="rxid" attr.type="string" for="node" id="d7" />
+  <key attr.name="srole" attr.type="string" for="node" id="d6" />
+  <key attr.name="name" attr.type="string" for="node" id="d5" />
+  <key attr.name="nsinchikey" attr.type="string" for="node" id="d4" />
+  <key attr.name="inchikey" attr.type="string" for="node" id="d3" />
+  <key attr.name="is_in_uspto" attr.type="string" for="node" id="d2" />
+  <key attr.name="node_type" attr.type="string" for="node" id="d1" />
+  <key attr.name="uuid" attr.type="string" for="node" id="d0" />
+  <graph edgedefault="directed">
+    <node id="5fa7fef7-716c-11eb-9dc4-484d7eee9ac0_DRLLGUSIBMKHRP-UHFFFAOYSA-N">
+      <data key="d0">5fa7fef7-716c-11eb-9dc4-484d7eee9ac0_DRLLGUSIBMKHRP-UHFFFAOYSA-N</data>
+      <data key="d1">Substance</data>
+      <data key="d2">True</data>
+      <data key="d3">DRLLGUSIBMKHRP-UHFFFAOYSA-N</data>
+      <data key="d4">DRLLGUSIBMKHRP</data>
+      <data key="d5">DRLLGUSIBMKHRP</data>
+      <data key="d6">tm</data>
+    </node>
+    <node id="5d463e8d-7170-11eb-9dc4-484d7eee9ac0_XLYOFNOQVPJJNP-UHFFFAOYSA-N">
+      <data key="d0">5d463e8d-7170-11eb-9dc4-484d7eee9ac0_XLYOFNOQVPJJNP-UHFFFAOYSA-N</data>
+      <data key="d1">Substance</data>
+      <data key="d2">True</data>
+      <data key="d3">XLYOFNOQVPJJNP-UHFFFAOYSA-N</data>
+      <data key="d4">XLYOFNOQVPJJNP</data>
+      <data key="d5">XLYOFNOQVPJJNP</data>
+      <data key="d6">im</data>
+    </node>
+    <node id="56b496c9-716a-11eb-9dc4-484d7eee9ac0_USPTO_155254">
+      <data key="d0">56b496c9-716a-11eb-9dc4-484d7eee9ac0_USPTO_155254</data>
+      <data key="d1">Reaction</data>
+      <data key="d2">True</data>
+      <data key="d7">USPTO_155254</data>
+      <data key="d8" />
+      <data key="d9" />
+      <data key="d10" />
+      <data key="d5">USPTO_155254</data>
+    </node>
+    <node id="caa39991-716b-11eb-9dc4-484d7eee9ac0_BACYUWVYYTXETD-UHFFFAOYSA-N">
+      <data key="d0">caa39991-716b-11eb-9dc4-484d7eee9ac0_BACYUWVYYTXETD-UHFFFAOYSA-N</data>
+      <data key="d1">Substance</data>
+      <data key="d2">True</data>
+      <data key="d3">BACYUWVYYTXETD-UHFFFAOYSA-N</data>
+      <data key="d4">BACYUWVYYTXETD</data>
+      <data key="d5">BACYUWVYYTXETD</data>
+      <data key="d6">sm</data>
+    </node>
+    <node id="c2e38c10-7169-11eb-9dc4-484d7eee9ac0_USPTO_279419">
+      <data key="d0">c2e38c10-7169-11eb-9dc4-484d7eee9ac0_USPTO_279419</data>
+      <data key="d1">Reaction</data>
+      <data key="d2">True</data>
+      <data key="d7">USPTO_279419</data>
+      <data key="d8" />
+      <data key="d9" />
+      <data key="d10" />
+      <data key="d5">USPTO_279419</data>
+    </node>
+    <node id="d2655928-716d-11eb-9dc4-484d7eee9ac0_LFQSCWFLJHTTHZ-UHFFFAOYSA-N">
+      <data key="d0">d2655928-716d-11eb-9dc4-484d7eee9ac0_LFQSCWFLJHTTHZ-UHFFFAOYSA-N</data>
+      <data key="d1">Substance</data>
+      <data key="d2">True</data>
+      <data key="d3">LFQSCWFLJHTTHZ-UHFFFAOYSA-N</data>
+      <data key="d4">LFQSCWFLJHTTHZ</data>
+      <data key="d5">LFQSCWFLJHTTHZ</data>
+      <data key="d6">im</data>
+    </node>
+    <node id="d09ac09d-716b-11eb-9dc4-484d7eee9ac0_BDAGIHXWWSANSR-UHFFFAOYSA-N">
+      <data key="d0">d09ac09d-716b-11eb-9dc4-484d7eee9ac0_BDAGIHXWWSANSR-UHFFFAOYSA-N</data>
+      <data key="d1">Substance</data>
+      <data key="d2">True</data>
+      <data key="d3">BDAGIHXWWSANSR-UHFFFAOYSA-N</data>
+      <data key="d4">BDAGIHXWWSANSR</data>
+      <data key="d5">BDAGIHXWWSANSR</data>
+      <data key="d6">sm</data>
+    </node>
+    <node id="d68ff765-716b-11eb-9dc4-484d7eee9ac0_BFNBIHQBYMNNAN-UHFFFAOYSA-N">
+      <data key="d0">d68ff765-716b-11eb-9dc4-484d7eee9ac0_BFNBIHQBYMNNAN-UHFFFAOYSA-N</data>
+      <data key="d1">Substance</data>
+      <data key="d2">True</data>
+      <data key="d3">BFNBIHQBYMNNAN-UHFFFAOYSA-N</data>
+      <data key="d4">BFNBIHQBYMNNAN</data>
+      <data key="d5">BFNBIHQBYMNNAN</data>
+      <data key="d6">sm</data>
+    </node>
+    <node id="e490507e-716a-11eb-9dc4-484d7eee9ac0_USPTO_310103">
+      <data key="d0">e490507e-716a-11eb-9dc4-484d7eee9ac0_USPTO_310103</data>
+      <data key="d1">Reaction</data>
+      <data key="d2">True</data>
+      <data key="d7">USPTO_310103</data>
+      <data key="d8" />
+      <data key="d9" />
+      <data key="d10" />
+      <data key="d5">USPTO_310103</data>
+    </node>
+    <node id="35ed899c-716c-11eb-9dc4-484d7eee9ac0_CYKSYDSDCBBLQG-UHFFFAOYSA-N">
+      <data key="d0">35ed899c-716c-11eb-9dc4-484d7eee9ac0_CYKSYDSDCBBLQG-UHFFFAOYSA-N</data>
+      <data key="d1">Substance</data>
+      <data key="d2">True</data>
+      <data key="d3">CYKSYDSDCBBLQG-UHFFFAOYSA-N</data>
+      <data key="d4">CYKSYDSDCBBLQG</data>
+      <data key="d5">CYKSYDSDCBBLQG</data>
+      <data key="d6">sm</data>
+    </node>
+    <node id="f62465d7-7169-11eb-9dc4-484d7eee9ac0_USPTO_111298">
+      <data key="d0">f62465d7-7169-11eb-9dc4-484d7eee9ac0_USPTO_111298</data>
+      <data key="d1">Reaction</data>
+      <data key="d2">True</data>
+      <data key="d7">USPTO_111298</data>
+      <data key="d8" />
+      <data key="d9" />
+      <data key="d10" />
+      <data key="d5">USPTO_111298</data>
+    </node>
+    <node id="47cfce68-716c-11eb-9dc4-484d7eee9ac0_DGVVWUTYPXICAM-UHFFFAOYSA-N">
+      <data key="d0">47cfce68-716c-11eb-9dc4-484d7eee9ac0_DGVVWUTYPXICAM-UHFFFAOYSA-N</data>
+      <data key="d1">Substance</data>
+      <data key="d2">True</data>
+      <data key="d3">DGVVWUTYPXICAM-UHFFFAOYSA-N</data>
+      <data key="d4">DGVVWUTYPXICAM</data>
+      <data key="d5">DGVVWUTYPXICAM</data>
+      <data key="d6">sm</data>
+    </node>
+    <node id="92e96739-716c-11eb-9dc4-484d7eee9ac0_FPOHNWQLNRZRFC-ZHACJKMWSA-N">
+      <data key="d0">92e96739-716c-11eb-9dc4-484d7eee9ac0_FPOHNWQLNRZRFC-ZHACJKMWSA-N</data>
+      <data key="d1">Substance</data>
+      <data key="d2">True</data>
+      <data key="d3">FPOHNWQLNRZRFC-ZHACJKMWSA-N</data>
+      <data key="d4">FPOHNWQLNRZRFC</data>
+      <data key="d5">FPOHNWQLNRZRFC</data>
+      <data key="d6">sm</data>
+    </node>
+    <node id="d643393b-716a-11eb-9dc4-484d7eee9ac0_USPTO_304258">
+      <data key="d0">d643393b-716a-11eb-9dc4-484d7eee9ac0_USPTO_304258</data>
+      <data key="d1">Reaction</data>
+      <data key="d2">True</data>
+      <data key="d7">USPTO_304258</data>
+      <data key="d8" />
+      <data key="d9" />
+      <data key="d10" />
+      <data key="d5">USPTO_304258</data>
+    </node>
+    <node id="e529faaf-716c-11eb-9dc4-484d7eee9ac0_HCHKCACWOHOZIP-UHFFFAOYSA-N">
+      <data key="d0">e529faaf-716c-11eb-9dc4-484d7eee9ac0_HCHKCACWOHOZIP-UHFFFAOYSA-N</data>
+      <data key="d1">Substance</data>
+      <data key="d2">True</data>
+      <data key="d3">HCHKCACWOHOZIP-UHFFFAOYSA-N</data>
+      <data key="d4">HCHKCACWOHOZIP</data>
+      <data key="d5">HCHKCACWOHOZIP</data>
+      <data key="d6">im</data>
+    </node>
+    <node id="c4fb7b65-716c-11eb-9dc4-484d7eee9ac0_GNSKLFRGEWLPPA-UHFFFAOYSA-M">
+      <data key="d0">c4fb7b65-716c-11eb-9dc4-484d7eee9ac0_GNSKLFRGEWLPPA-UHFFFAOYSA-M</data>
+      <data key="d1">Substance</data>
+      <data key="d2">True</data>
+      <data key="d3">GNSKLFRGEWLPPA-UHFFFAOYSA-M</data>
+      <data key="d4">GNSKLFRGEWLPPA</data>
+      <data key="d5">GNSKLFRGEWLPPA</data>
+      <data key="d6">sm</data>
+    </node>
+    <node id="d3497c7e-716c-11eb-9dc4-484d7eee9ac0_GUBGYTABKSRVRQ-CUHNMECISA-N">
+      <data key="d0">d3497c7e-716c-11eb-9dc4-484d7eee9ac0_GUBGYTABKSRVRQ-CUHNMECISA-N</data>
+      <data key="d1">Substance</data>
+      <data key="d2">True</data>
+      <data key="d3">GUBGYTABKSRVRQ-CUHNMECISA-N</data>
+      <data key="d4">GUBGYTABKSRVRQ</data>
+      <data key="d5">GUBGYTABKSRVRQ</data>
+      <data key="d6">sm</data>
+    </node>
+    <node id="e9eebc48-716c-11eb-9dc4-484d7eee9ac0_HEMHJVSKTPXQMS-UHFFFAOYSA-M">
+      <data key="d0">e9eebc48-716c-11eb-9dc4-484d7eee9ac0_HEMHJVSKTPXQMS-UHFFFAOYSA-M</data>
+      <data key="d1">Substance</data>
+      <data key="d2">True</data>
+      <data key="d3">HEMHJVSKTPXQMS-UHFFFAOYSA-M</data>
+      <data key="d4">HEMHJVSKTPXQMS</data>
+      <data key="d5">HEMHJVSKTPXQMS</data>
+      <data key="d6">sm</data>
+    </node>
+    <node id="068c4022-716d-11eb-9dc4-484d7eee9ac0_HRXKRNGNAMMEHJ-UHFFFAOYSA-K">
+      <data key="d0">068c4022-716d-11eb-9dc4-484d7eee9ac0_HRXKRNGNAMMEHJ-UHFFFAOYSA-K</data>
+      <data key="d1">Substance</data>
+      <data key="d2">True</data>
+      <data key="d3">HRXKRNGNAMMEHJ-UHFFFAOYSA-K</data>
+      <data key="d4">HRXKRNGNAMMEHJ</data>
+      <data key="d5">HRXKRNGNAMMEHJ</data>
+      <data key="d6">sm</data>
+    </node>
+    <node id="65e8ddcd-716d-11eb-9dc4-484d7eee9ac0_JIAARYAFYJHUJI-UHFFFAOYSA-L">
+      <data key="d0">65e8ddcd-716d-11eb-9dc4-484d7eee9ac0_JIAARYAFYJHUJI-UHFFFAOYSA-L</data>
+      <data key="d1">Substance</data>
+      <data key="d2">True</data>
+      <data key="d3">JIAARYAFYJHUJI-UHFFFAOYSA-L</data>
+      <data key="d4">JIAARYAFYJHUJI</data>
+      <data key="d5">JIAARYAFYJHUJI</data>
+      <data key="d6">sm</data>
+    </node>
+    <node id="d1315692-7169-11eb-9dc4-484d7eee9ac0_USPTO_285631">
+      <data key="d0">d1315692-7169-11eb-9dc4-484d7eee9ac0_USPTO_285631</data>
+      <data key="d1">Reaction</data>
+      <data key="d2">True</data>
+      <data key="d7">USPTO_285631</data>
+      <data key="d8" />
+      <data key="d9" />
+      <data key="d10" />
+      <data key="d5">USPTO_285631</data>
+    </node>
+    <node id="68991d97-716e-11eb-9dc4-484d7eee9ac0_NWONKYPBYAMBJT-UHFFFAOYSA-L">
+      <data key="d0">68991d97-716e-11eb-9dc4-484d7eee9ac0_NWONKYPBYAMBJT-UHFFFAOYSA-L</data>
+      <data key="d1">Substance</data>
+      <data key="d2">True</data>
+      <data key="d3">NWONKYPBYAMBJT-UHFFFAOYSA-L</data>
+      <data key="d4">NWONKYPBYAMBJT</data>
+      <data key="d5">NWONKYPBYAMBJT</data>
+      <data key="d6">sm</data>
+    </node>
+    <node id="86669ae7-716e-11eb-9dc4-484d7eee9ac0_OKKJLVBELUTLKV-UHFFFAOYSA-N">
+      <data key="d0">86669ae7-716e-11eb-9dc4-484d7eee9ac0_OKKJLVBELUTLKV-UHFFFAOYSA-N</data>
+      <data key="d1">Substance</data>
+      <data key="d2">True</data>
+      <data key="d3">OKKJLVBELUTLKV-UHFFFAOYSA-N</data>
+      <data key="d4">OKKJLVBELUTLKV</data>
+      <data key="d5">OKKJLVBELUTLKV</data>
+      <data key="d6">sm</data>
+    </node>
+    <node id="2623073b-716f-11eb-9dc4-484d7eee9ac0_RFUGMQAQYQBITP-UHFFFAOYSA-N">
+      <data key="d0">2623073b-716f-11eb-9dc4-484d7eee9ac0_RFUGMQAQYQBITP-UHFFFAOYSA-N</data>
+      <data key="d1">Substance</data>
+      <data key="d2">True</data>
+      <data key="d3">RFUGMQAQYQBITP-UHFFFAOYSA-N</data>
+      <data key="d4">RFUGMQAQYQBITP</data>
+      <data key="d5">RFUGMQAQYQBITP</data>
+      <data key="d6">sm</data>
+    </node>
+    <node id="6684287a-716f-11eb-9dc4-484d7eee9ac0_SIRRUYDJWNPXLD-UHFFFAOYSA-N">
+      <data key="d0">6684287a-716f-11eb-9dc4-484d7eee9ac0_SIRRUYDJWNPXLD-UHFFFAOYSA-N</data>
+      <data key="d1">Substance</data>
+      <data key="d2">True</data>
+      <data key="d3">SIRRUYDJWNPXLD-UHFFFAOYSA-N</data>
+      <data key="d4">SIRRUYDJWNPXLD</data>
+      <data key="d5">SIRRUYDJWNPXLD</data>
+      <data key="d6">sm</data>
+    </node>
+    <node id="c88cfb09-7168-11eb-9dc4-484d7eee9ac0_USPTO_7360">
+      <data key="d0">c88cfb09-7168-11eb-9dc4-484d7eee9ac0_USPTO_7360</data>
+      <data key="d1">Reaction</data>
+      <data key="d2">True</data>
+      <data key="d7">USPTO_7360</data>
+      <data key="d8" />
+      <data key="d9" />
+      <data key="d10" />
+      <data key="d5">USPTO_7360</data>
+    </node>
+    <node id="d5612539-716f-11eb-9dc4-484d7eee9ac0_VADKRMSMGWJZCF-UHFFFAOYSA-N">
+      <data key="d0">d5612539-716f-11eb-9dc4-484d7eee9ac0_VADKRMSMGWJZCF-UHFFFAOYSA-N</data>
+      <data key="d1">Substance</data>
+      <data key="d2">True</data>
+      <data key="d3">VADKRMSMGWJZCF-UHFFFAOYSA-N</data>
+      <data key="d4">VADKRMSMGWJZCF</data>
+      <data key="d5">VADKRMSMGWJZCF</data>
+      <data key="d6">sm</data>
+    </node>
+    <node id="0c35d126-7170-11eb-9dc4-484d7eee9ac0_VZTDIZULWFCMLS-UHFFFAOYSA-N">
+      <data key="d0">0c35d126-7170-11eb-9dc4-484d7eee9ac0_VZTDIZULWFCMLS-UHFFFAOYSA-N</data>
+      <data key="d1">Substance</data>
+      <data key="d2">True</data>
+      <data key="d3">VZTDIZULWFCMLS-UHFFFAOYSA-N</data>
+      <data key="d4">VZTDIZULWFCMLS</data>
+      <data key="d5">VZTDIZULWFCMLS</data>
+      <data key="d6">sm</data>
+    </node>
+    <node id="a3983a8d-7168-11eb-9dc4-484d7eee9ac0_USPTO_57500">
+      <data key="d0">a3983a8d-7168-11eb-9dc4-484d7eee9ac0_USPTO_57500</data>
+      <data key="d1">Reaction</data>
+      <data key="d2">True</data>
+      <data key="d7">USPTO_57500</data>
+      <data key="d8" />
+      <data key="d9" />
+      <data key="d10" />
+      <data key="d5">USPTO_57500</data>
+    </node>
+    <node id="6cc6a2ed-7170-11eb-9dc4-484d7eee9ac0_XSQUKJJJFZCRTK-UHFFFAOYSA-N">
+      <data key="d0">6cc6a2ed-7170-11eb-9dc4-484d7eee9ac0_XSQUKJJJFZCRTK-UHFFFAOYSA-N</data>
+      <data key="d1">Substance</data>
+      <data key="d2">True</data>
+      <data key="d3">XSQUKJJJFZCRTK-UHFFFAOYSA-N</data>
+      <data key="d4">XSQUKJJJFZCRTK</data>
+      <data key="d5">XSQUKJJJFZCRTK</data>
+      <data key="d6">sm</data>
+    </node>
+    <node id="d8109626-7170-11eb-9dc4-484d7eee9ac0_ZPWVASYFFYYZEW-UHFFFAOYSA-L">
+      <data key="d0">d8109626-7170-11eb-9dc4-484d7eee9ac0_ZPWVASYFFYYZEW-UHFFFAOYSA-L</data>
+      <data key="d1">Substance</data>
+      <data key="d2">True</data>
+      <data key="d3">ZPWVASYFFYYZEW-UHFFFAOYSA-L</data>
+      <data key="d4">ZPWVASYFFYYZEW</data>
+      <data key="d5">ZPWVASYFFYYZEW</data>
+      <data key="d6">sm</data>
+    </node>
+    <edge source="5d463e8d-7170-11eb-9dc4-484d7eee9ac0_XLYOFNOQVPJJNP-UHFFFAOYSA-N" target="56b496c9-716a-11eb-9dc4-484d7eee9ac0_USPTO_155254">
+      <data key="d11">REAGENT_OF</data>
+      <data key="d12">b3278f49-718a-11eb-9dc4-484d7eee9ac0_XLYOFNOQVPJJNP-UHFFFAOYSA-N_USPTO_155254</data>
+    </edge>
+    <edge source="56b496c9-716a-11eb-9dc4-484d7eee9ac0_USPTO_155254" target="5fa7fef7-716c-11eb-9dc4-484d7eee9ac0_DRLLGUSIBMKHRP-UHFFFAOYSA-N">
+      <data key="d11">PRODUCT_OF</data>
+      <data key="d12">6810b061-718e-11eb-9dc4-484d7eee9ac0_USPTO_155254_DRLLGUSIBMKHRP-UHFFFAOYSA-N</data>
+    </edge>
+    <edge source="caa39991-716b-11eb-9dc4-484d7eee9ac0_BACYUWVYYTXETD-UHFFFAOYSA-N" target="c2e38c10-7169-11eb-9dc4-484d7eee9ac0_USPTO_279419">
+      <data key="d11">REACTANT_OF</data>
+      <data key="d12">ad2e88c6-7182-11eb-9dc4-484d7eee9ac0_BACYUWVYYTXETD-UHFFFAOYSA-N_USPTO_279419</data>
+    </edge>
+    <edge source="c2e38c10-7169-11eb-9dc4-484d7eee9ac0_USPTO_279419" target="d2655928-716d-11eb-9dc4-484d7eee9ac0_LFQSCWFLJHTTHZ-UHFFFAOYSA-N">
+      <data key="d11">PRODUCT_OF</data>
+      <data key="d12">cd17d763-718d-11eb-9dc4-484d7eee9ac0_USPTO_279419_LFQSCWFLJHTTHZ-UHFFFAOYSA-N</data>
+    </edge>
+    <edge source="d2655928-716d-11eb-9dc4-484d7eee9ac0_LFQSCWFLJHTTHZ-UHFFFAOYSA-N" target="56b496c9-716a-11eb-9dc4-484d7eee9ac0_USPTO_155254">
+      <data key="d11">REAGENT_OF</data>
+      <data key="d12">b3278f48-718a-11eb-9dc4-484d7eee9ac0_LFQSCWFLJHTTHZ-UHFFFAOYSA-N_USPTO_155254</data>
+    </edge>
+    <edge source="d09ac09d-716b-11eb-9dc4-484d7eee9ac0_BDAGIHXWWSANSR-UHFFFAOYSA-N" target="56b496c9-716a-11eb-9dc4-484d7eee9ac0_USPTO_155254">
+      <data key="d11">REACTANT_OF</data>
+      <data key="d12">74900c92-7184-11eb-9dc4-484d7eee9ac0_BDAGIHXWWSANSR-UHFFFAOYSA-N_USPTO_155254</data>
+    </edge>
+    <edge source="d68ff765-716b-11eb-9dc4-484d7eee9ac0_BFNBIHQBYMNNAN-UHFFFAOYSA-N" target="e490507e-716a-11eb-9dc4-484d7eee9ac0_USPTO_310103">
+      <data key="d11">REACTANT_OF</data>
+      <data key="d12">267b4756-7186-11eb-9dc4-484d7eee9ac0_BFNBIHQBYMNNAN-UHFFFAOYSA-N_USPTO_310103</data>
+    </edge>
+    <edge source="e490507e-716a-11eb-9dc4-484d7eee9ac0_USPTO_310103" target="d2655928-716d-11eb-9dc4-484d7eee9ac0_LFQSCWFLJHTTHZ-UHFFFAOYSA-N">
+      <data key="d11">PRODUCT_OF</data>
+      <data key="d12">fab0f26d-718e-11eb-9dc4-484d7eee9ac0_USPTO_310103_LFQSCWFLJHTTHZ-UHFFFAOYSA-N</data>
+    </edge>
+    <edge source="35ed899c-716c-11eb-9dc4-484d7eee9ac0_CYKSYDSDCBBLQG-UHFFFAOYSA-N" target="f62465d7-7169-11eb-9dc4-484d7eee9ac0_USPTO_111298">
+      <data key="d11">REACTANT_OF</data>
+      <data key="d12">482823e1-7183-11eb-9dc4-484d7eee9ac0_CYKSYDSDCBBLQG-UHFFFAOYSA-N_USPTO_111298</data>
+    </edge>
+    <edge source="f62465d7-7169-11eb-9dc4-484d7eee9ac0_USPTO_111298" target="d2655928-716d-11eb-9dc4-484d7eee9ac0_LFQSCWFLJHTTHZ-UHFFFAOYSA-N">
+      <data key="d11">PRODUCT_OF</data>
+      <data key="d12">02bc8dae-718e-11eb-9dc4-484d7eee9ac0_USPTO_111298_LFQSCWFLJHTTHZ-UHFFFAOYSA-N</data>
+    </edge>
+    <edge source="47cfce68-716c-11eb-9dc4-484d7eee9ac0_DGVVWUTYPXICAM-UHFFFAOYSA-N" target="c2e38c10-7169-11eb-9dc4-484d7eee9ac0_USPTO_279419">
+      <data key="d11">REACTANT_OF</data>
+      <data key="d12">ad2e88c5-7182-11eb-9dc4-484d7eee9ac0_DGVVWUTYPXICAM-UHFFFAOYSA-N_USPTO_279419</data>
+    </edge>
+    <edge source="92e96739-716c-11eb-9dc4-484d7eee9ac0_FPOHNWQLNRZRFC-ZHACJKMWSA-N" target="d643393b-716a-11eb-9dc4-484d7eee9ac0_USPTO_304258">
+      <data key="d11">REACTANT_OF</data>
+      <data key="d12">fb8fffbe-7185-11eb-9dc4-484d7eee9ac0_FPOHNWQLNRZRFC-ZHACJKMWSA-N_USPTO_304258</data>
+    </edge>
+    <edge source="d643393b-716a-11eb-9dc4-484d7eee9ac0_USPTO_304258" target="e529faaf-716c-11eb-9dc4-484d7eee9ac0_HCHKCACWOHOZIP-UHFFFAOYSA-N">
+      <data key="d11">PRODUCT_OF</data>
+      <data key="d12">ec63a904-718e-11eb-9dc4-484d7eee9ac0_USPTO_304258_HCHKCACWOHOZIP-UHFFFAOYSA-N</data>
+    </edge>
+    <edge source="e529faaf-716c-11eb-9dc4-484d7eee9ac0_HCHKCACWOHOZIP-UHFFFAOYSA-N" target="56b496c9-716a-11eb-9dc4-484d7eee9ac0_USPTO_155254">
+      <data key="d11">REAGENT_OF</data>
+      <data key="d12">b3278f4a-718a-11eb-9dc4-484d7eee9ac0_HCHKCACWOHOZIP-UHFFFAOYSA-N_USPTO_155254</data>
+    </edge>
+    <edge source="c4fb7b65-716c-11eb-9dc4-484d7eee9ac0_GNSKLFRGEWLPPA-UHFFFAOYSA-M" target="e490507e-716a-11eb-9dc4-484d7eee9ac0_USPTO_310103">
+      <data key="d11">REACTANT_OF</data>
+      <data key="d12">267b4754-7186-11eb-9dc4-484d7eee9ac0_GNSKLFRGEWLPPA-UHFFFAOYSA-M_USPTO_310103</data>
+    </edge>
+    <edge source="d3497c7e-716c-11eb-9dc4-484d7eee9ac0_GUBGYTABKSRVRQ-CUHNMECISA-N" target="e490507e-716a-11eb-9dc4-484d7eee9ac0_USPTO_310103">
+      <data key="d11">REACTANT_OF</data>
+      <data key="d12">267b4753-7186-11eb-9dc4-484d7eee9ac0_GUBGYTABKSRVRQ-CUHNMECISA-N_USPTO_310103</data>
+    </edge>
+    <edge source="e9eebc48-716c-11eb-9dc4-484d7eee9ac0_HEMHJVSKTPXQMS-UHFFFAOYSA-M" target="d643393b-716a-11eb-9dc4-484d7eee9ac0_USPTO_304258">
+      <data key="d11">REACTANT_OF</data>
+      <data key="d12">fb8fffbf-7185-11eb-9dc4-484d7eee9ac0_HEMHJVSKTPXQMS-UHFFFAOYSA-M_USPTO_304258</data>
+    </edge>
+    <edge source="068c4022-716d-11eb-9dc4-484d7eee9ac0_HRXKRNGNAMMEHJ-UHFFFAOYSA-K" target="e490507e-716a-11eb-9dc4-484d7eee9ac0_USPTO_310103">
+      <data key="d11">REACTANT_OF</data>
+      <data key="d12">267b4757-7186-11eb-9dc4-484d7eee9ac0_HRXKRNGNAMMEHJ-UHFFFAOYSA-K_USPTO_310103</data>
+    </edge>
+    <edge source="65e8ddcd-716d-11eb-9dc4-484d7eee9ac0_JIAARYAFYJHUJI-UHFFFAOYSA-L" target="d1315692-7169-11eb-9dc4-484d7eee9ac0_USPTO_285631">
+      <data key="d11">REACTANT_OF</data>
+      <data key="d12">da7cf0c3-7182-11eb-9dc4-484d7eee9ac0_JIAARYAFYJHUJI-UHFFFAOYSA-L_USPTO_285631</data>
+    </edge>
+    <edge source="d1315692-7169-11eb-9dc4-484d7eee9ac0_USPTO_285631" target="e529faaf-716c-11eb-9dc4-484d7eee9ac0_HCHKCACWOHOZIP-UHFFFAOYSA-N">
+      <data key="d11">PRODUCT_OF</data>
+      <data key="d12">dc95d9a7-718d-11eb-9dc4-484d7eee9ac0_USPTO_285631_HCHKCACWOHOZIP-UHFFFAOYSA-N</data>
+    </edge>
+    <edge source="68991d97-716e-11eb-9dc4-484d7eee9ac0_NWONKYPBYAMBJT-UHFFFAOYSA-L" target="d643393b-716a-11eb-9dc4-484d7eee9ac0_USPTO_304258">
+      <data key="d11">REACTANT_OF</data>
+      <data key="d12">fb8fffc0-7185-11eb-9dc4-484d7eee9ac0_NWONKYPBYAMBJT-UHFFFAOYSA-L_USPTO_304258</data>
+    </edge>
+    <edge source="86669ae7-716e-11eb-9dc4-484d7eee9ac0_OKKJLVBELUTLKV-UHFFFAOYSA-N" target="d643393b-716a-11eb-9dc4-484d7eee9ac0_USPTO_304258">
+      <data key="d11">REAGENT_OF</data>
+      <data key="d12">4496c782-718b-11eb-9dc4-484d7eee9ac0_OKKJLVBELUTLKV-UHFFFAOYSA-N_USPTO_304258</data>
+    </edge>
+    <edge source="2623073b-716f-11eb-9dc4-484d7eee9ac0_RFUGMQAQYQBITP-UHFFFAOYSA-N" target="56b496c9-716a-11eb-9dc4-484d7eee9ac0_USPTO_155254">
+      <data key="d11">REACTANT_OF</data>
+      <data key="d12">74900c93-7184-11eb-9dc4-484d7eee9ac0_RFUGMQAQYQBITP-UHFFFAOYSA-N_USPTO_155254</data>
+    </edge>
+    <edge source="6684287a-716f-11eb-9dc4-484d7eee9ac0_SIRRUYDJWNPXLD-UHFFFAOYSA-N" target="c88cfb09-7168-11eb-9dc4-484d7eee9ac0_USPTO_7360">
+      <data key="d11">REACTANT_OF</data>
+      <data key="d12">9cc8cb6b-717f-11eb-9dc4-484d7eee9ac0_SIRRUYDJWNPXLD-UHFFFAOYSA-N_USPTO_7360</data>
+    </edge>
+    <edge source="c88cfb09-7168-11eb-9dc4-484d7eee9ac0_USPTO_7360" target="5d463e8d-7170-11eb-9dc4-484d7eee9ac0_XLYOFNOQVPJJNP-UHFFFAOYSA-N">
+      <data key="d11">PRODUCT_OF</data>
+      <data key="d12">c340a30b-718c-11eb-9dc4-484d7eee9ac0_USPTO_7360_XLYOFNOQVPJJNP-UHFFFAOYSA-N</data>
+    </edge>
+    <edge source="d5612539-716f-11eb-9dc4-484d7eee9ac0_VADKRMSMGWJZCF-UHFFFAOYSA-N" target="c88cfb09-7168-11eb-9dc4-484d7eee9ac0_USPTO_7360">
+      <data key="d11">REACTANT_OF</data>
+      <data key="d12">9cc8cb6d-717f-11eb-9dc4-484d7eee9ac0_VADKRMSMGWJZCF-UHFFFAOYSA-N_USPTO_7360</data>
+    </edge>
+    <edge source="0c35d126-7170-11eb-9dc4-484d7eee9ac0_VZTDIZULWFCMLS-UHFFFAOYSA-N" target="a3983a8d-7168-11eb-9dc4-484d7eee9ac0_USPTO_57500">
+      <data key="d11">REACTANT_OF</data>
+      <data key="d12">2deb9aa1-717f-11eb-9dc4-484d7eee9ac0_VZTDIZULWFCMLS-UHFFFAOYSA-N_USPTO_57500</data>
+    </edge>
+    <edge source="a3983a8d-7168-11eb-9dc4-484d7eee9ac0_USPTO_57500" target="d09ac09d-716b-11eb-9dc4-484d7eee9ac0_BDAGIHXWWSANSR-UHFFFAOYSA-N">
+      <data key="d11">PRODUCT_OF</data>
+      <data key="d12">9be94f2f-718c-11eb-9dc4-484d7eee9ac0_USPTO_57500_BDAGIHXWWSANSR-UHFFFAOYSA-N</data>
+    </edge>
+    <edge source="6cc6a2ed-7170-11eb-9dc4-484d7eee9ac0_XSQUKJJJFZCRTK-UHFFFAOYSA-N" target="c88cfb09-7168-11eb-9dc4-484d7eee9ac0_USPTO_7360">
+      <data key="d11">REACTANT_OF</data>
+      <data key="d12">9cc8cb6c-717f-11eb-9dc4-484d7eee9ac0_XSQUKJJJFZCRTK-UHFFFAOYSA-N_USPTO_7360</data>
+    </edge>
+    <edge source="d8109626-7170-11eb-9dc4-484d7eee9ac0_ZPWVASYFFYYZEW-UHFFFAOYSA-L" target="e490507e-716a-11eb-9dc4-484d7eee9ac0_USPTO_310103">
+      <data key="d11">REACTANT_OF</data>
+      <data key="d12">267b4755-7186-11eb-9dc4-484d7eee9ac0_ZPWVASYFFYYZEW-UHFFFAOYSA-L_USPTO_310103</data>
+    </edge>
+  </graph>
+</graphml>
