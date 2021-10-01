@@ -91,7 +91,9 @@ The workflow was tested successfully on Python version 3.6.7.
 - Creating conda dependencies
 <BR>
 <BR>
-`conda env export --name my-rdkit-env --file sgp_env_mac.yml`
+`conda env export --name sgp --file sgp_env_linux.yml`
+`conda env export --name sgp --file sgp_env_mac.yml`
+
 
 
 
@@ -127,10 +129,17 @@ Data and results subdirectory:
 
 https://carpentries-incubator.github.io/introduction-to-conda-for-data-scientists/04-sharing-environments/index.html
 <BR>
+<BR>
 https://git-lfs.github.com/
-
-
-
+<BR>
+<BR>
+https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#activating-an-environment
+<BR>
+<BR>
+https://unix.stackexchange.com/questions/1136/batch-renaming-files
+<BR>
+<BR>
+https://unix.stackexchange.com/questions/34549/how-to-rename-multiple-files-by-removing-the-extension
 
 
 	
