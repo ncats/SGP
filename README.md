@@ -92,6 +92,8 @@ The workflow was tested successfully on Python version 3.6.7.
 <BR>
 <BR>
 `conda env export --name sgp --file sgp_env_linux.yml`
+<BR>
+<BR>
 `conda env export --name sgp --file sgp_env_mac.yml`
 
 
