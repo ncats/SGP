@@ -1,0 +1,15 @@
+inchikey	smiles	IUPAC_name	ms_id
+BMDNOIHVFOBSAS-UHFFFAOYSA-N	[O-][N+](c(cc1)ccc1NC(C=Cc1cccc([N+]([O-])=O)c1)=O)=O	3‐(3‐nitrophenyl)‐N‐(4‐nitrophenyl)prop‐2‐enamide	1
+AZURFBCEYQYATI-UHFFFAOYSA-N	O=C(CCl)Nc1ccc([N+](=O)[O-])cc1	2‐chloro‐N‐(4‐nitrophenyl)acetamide	2
+ZETIVVHRRQLWFW-UHFFFAOYSA-N	O=Cc1cccc([N+](=O)[O-])c1	3‐nitrobenzaldehyde	3
+WWXMVRYHLZMQIG-UHFFFAOYSA-N	O=C(O)C=Cc1cccc([N+](=O)[O-])c1	3‐(3‐nitrophenyl)prop‐2‐enoic acid	4
+TYMLOMAKGOJONV-UHFFFAOYSA-N	Nc1ccc([N+](=O)[O-])cc1	4‐nitroaniline	5
+NSFJAFZHYOAMHL-UHFFFAOYSA-N	O=[N+]([O-])c1ccc(B(O)O)cc1	(4‐nitrophenyl)boronic acid	6
+VXIVSQZSERGHQP-UHFFFAOYSA-N	NC(=O)CCl	2‐chloroacetamide	7
+BNWCETAHAJSBFG-UHFFFAOYSA-N	CC(C)(C)OC(=O)CBr	tert‐butyl 2‐bromoacetate	8
+KDPAWGWELVVRCH-UHFFFAOYSA-N	O=C(O)CBr	2‐bromoacetic acid	9
+FOCAUTSVDIKZOP-UHFFFAOYSA-N	O=C(O)CCl	2‐chloroacetic acid	10
+ZNRGSYUVFVNSAW-UHFFFAOYSA-N	O=[N+]([O-])c1cccc(B(O)O)c1	(3‐nitrophenyl)boronic acid	11
+POAWTYXNXPEWCO-UHFFFAOYSA-N	O=C(O)C=CBr	3‐bromoprop‐2‐enoic acid	12
+JDNTWHVOXJZDSN-UHFFFAOYSA-N	O=C(O)CI	2‐iodoacetic acid	13
+LFKDJXLFVYVEFG-UHFFFAOYSA-N	CC(C)(C)OC(N)=O	tert‐butyl carbamate	14

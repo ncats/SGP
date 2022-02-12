@@ -84,6 +84,9 @@ The workflow was tested successfully on Python version 3.6.7.
 
 `bash si_workflow.sh`
 
+`bash case_study_workflow.sh`
+
+
 
 ### Remarks
 
