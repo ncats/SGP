@@ -26,7 +26,7 @@
     <key attr.name="name" attr.type="string" for="graph" id="name"/>
     <key attr.name="selected" attr.type="boolean" for="graph" id="selected"/>
     <key attr.name="__Annotations" attr.type="string" for="graph" id="__Annotations"/>
-    <graph edgedefault="directed" id="cs_example_1b_cytoscape.graphml">
+    <graph edgedefault="directed" id="cs_example_3b_cytoscape.graphml">
         <node id="1966">
             <data key="SUID">1966</data>
             <data key="shared name">LFKDJXLFVYVEFG</data>
@@ -59,7 +59,7 @@
             <data key="uuid">09cc3895-0b73-11ec-bf4c-484d7eee9ac0_TYMLOMAKGOJONV-UHFFFAOYSA-N</data>
             <data key="node_type">Substance</data>
             <data key="inchikey">TYMLOMAKGOJONV-UHFFFAOYSA-N</data>
-            <data key="srole">im</data>
+            <data key="srole">sm</data>
             <data key="smiles">Nc1ccc([N+](=O)[O-])cc1</data>
             <data key="IUPAC_name">4‐nitroaniline</data>
             <data key="ms_id">5</data>
@@ -293,7 +293,7 @@
             <data key="uuid">07a257c5-0b73-11ec-810b-484d7eee9ac0_AZURFBCEYQYATI-UHFFFAOYSA-N</data>
             <data key="node_type">Substance</data>
             <data key="inchikey">AZURFBCEYQYATI-UHFFFAOYSA-N</data>
-            <data key="srole">sm</data>
+            <data key="srole">im</data>
             <data key="smiles">O=C(CCl)Nc1ccc([N+](=O)[O-])cc1</data>
             <data key="IUPAC_name">2‐chloro‐N‐(4‐nitrophenyl)acetamide</data>
             <data key="ms_id">2</data>

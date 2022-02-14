@@ -26,7 +26,7 @@
     <key attr.name="name" attr.type="string" for="graph" id="name"/>
     <key attr.name="selected" attr.type="boolean" for="graph" id="selected"/>
     <key attr.name="__Annotations" attr.type="string" for="graph" id="__Annotations"/>
-    <graph edgedefault="directed" id="cs_example_3_cytoscape.graphml">
+    <graph edgedefault="directed" id="cs_example_3a_cytoscape.graphml">
         <node id="1966">
             <data key="SUID">1966</data>
             <data key="shared name">LFKDJXLFVYVEFG</data>
