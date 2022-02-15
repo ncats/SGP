@@ -87,6 +87,21 @@ The workflow was tested successfully on Python version 3.6.7.
 `bash case_study_workflow.sh`
 
 
+4. All resultant networks are provided in the format of Cytoscape session (.cys) files.
+
+
+The original and pruned graph created by running `workflow.sh` were imported into a
+Cytoscape session (.cys) file located at `data/output/All_networks_SGP_pub.cys` .
+
+
+The original and pruned graph created by running `si_workflow.sh` were imported into a
+Cytoscape session (.cys) file located at `data/output/si/SI_SGP_Graphs.cys` .
+
+
+The original and pruned graph created by running `case_study_workflow.sh` were imported into a
+Cytoscape session (.cys) file located at `data/case_study/example_savi_rev.cys` .
+
+
 
 ### Remarks
 
