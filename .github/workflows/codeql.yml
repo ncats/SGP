@@ -89,6 +89,7 @@ jobs:
       uses: github/codeql-action/analyze@v3
       with:
         category: "/language:${{matrix.language}}"
+        wait-for-processing: true
 
     # Step 5: Generate Security Report
     - name: Generate Security Report
