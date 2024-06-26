@@ -13,9 +13,9 @@ name: "CodeQL-Advance"
 
 on:
   push:
-    branches: [ "DA-1967-shift-left" ]
+    branches: [ "main" ]
   pull_request:
-    branches: [ "DA-1967-shift-left" ]
+    branches: [ "main" ]
 
 jobs:
   analyze:
